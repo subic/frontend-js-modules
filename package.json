@@ -1,0 +1,15 @@
+{
+  "name": "frontend-js-modules",
+  "version": "0.0.1",
+  "description": "Collection of modules for browser-side javascript.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subic/frontend-js-modules"
+  },
+  "author": "Jaka Šubic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subic/frontend-js-modules/issues"
+  },
+  "homepage": "https://github.com/subic/frontend-js-modules"
+}
